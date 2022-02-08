@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **NodeJS, Typescript, MySQL and React**
 
-- 🤝 I’m looking for help with [JobFinder](https://github.com/kevinfinalboss/JobFinder)
-
 - 👨‍💻 All of my projects are available at [https://github.com/kevinfinalboss](https://github.com/kevinfinalboss)
 
 - 💬 Ask me about **NodeJS**
