@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Gomes</h1>
 <h3 align="center">A Passionate back-end developer</h3>
 
-- 🌱 I’m currently learning **NodeJS, Typescript, Kotlin and MySQL**
+- 🌱 I’m currently learning **NodeJS, Typescript, Kotlin, Spring and MySQL**
 
 - 🤝 I’m looking for help with [JobFinder](https://github.com/kevinfinalboss/JobFinder)
 
