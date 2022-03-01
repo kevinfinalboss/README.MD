@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Gomes</h1>
-<h3 align="center">A Passionate back-end developer</h3>
+<h3 align="center">Back-end Developer</h3>
 
 - 🌱 I’m currently learning **NodeJS, Typescript, Kotlin, Spring and MySQL**
 
