@@ -48,8 +48,4 @@
   <img height="300" src="https://giffiles.alphacoders.com/111/111906.gif"  />
 </div>
 
-<div align="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317kkxpmyzohtzz27u35aqqn5fxe)
-</div>
-
 ###
