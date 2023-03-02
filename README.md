@@ -49,10 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kevinfinalboss/kevinfinalboss/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kevinfinalboss.kevinfinalboss&left_color=darkcyan&left_text=Visitantes"  />
 </div>
