@@ -1,5 +1,7 @@
 # 💫 About Me:
-Estudante de Ciência da Computação e Computação em Nuvem, com forte habilidade em desenvolvimento back-end com NodeJS e Nest, e experiência limitada com Adonis. Atuo como DevOps, tendo experiência com ferramentas como Docker, Kubernetes, Terraform, Grafana, Zabbix e Ansible. Meu atual foco de aprendizado é em Python, especializando-me em desenvolvimento back-end com Flask.<br>
+Estudante de Ciência da Computação e especializado em Computação em Nuvem, possuo sólida experiência em desenvolvimento back-end, trabalhando com linguagens como Node.js, Nest.js, Java, Golang, Python e muito mais. Atualmente, desempenho o papel de DevOps, utilizando ferramentas como Docker, Kubernetes, Kong, AWS, Ansible, AWS Lambda, EC2, Prometheus e Grafana.
+
+No momento, estou concentrando meus esforços na obtenção de certificações AWS, como a Cloud Practitioner e a Solutions Architect. Estou sempre buscando aprimorar minhas habilidades e contribuir para projetos desafiadores e inovadores. Seja através do desenvolvimento de software ou na implementação de soluções de infraestrutura modernas, estou comprometido em usar meu conhecimento para causar um impacto positivo no mundo da tecnologia.<br>
 
 
 ## 🌐 Socials:
